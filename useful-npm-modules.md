@@ -5,6 +5,7 @@
 ## TypeScript
 
 - [zod](https://www.npmjs.com/package/zod): Runtime type assertions for TypeScript
+- [trpc](https://trpc.io): Typed RPC calls between client and server
 
 ## Frontend
 
