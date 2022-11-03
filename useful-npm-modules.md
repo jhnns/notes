@@ -10,3 +10,7 @@
 ## Frontend
 
 - [focus-trap](https://www.npmjs.com/package/focus-trap): Trap focus within a DOM node. For improved accessibility.
+
+## React
+
+- [spin-delay](https://www.npmjs.com/package/spin-delay): Delay a spinner for a certain timeout
