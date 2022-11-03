@@ -14,3 +14,8 @@
 ## React
 
 - [spin-delay](https://www.npmjs.com/package/spin-delay): Delay a spinner for a certain timeout
+
+## Env
+
+- [env-cmd](https://www.npmjs.com/package/env-cmd): Source a `.env` file before executing Node
+- [env-var](https://www.npmjs.com/package/env-var): Parse env values in a type-safe way
