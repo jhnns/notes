@@ -15,6 +15,10 @@
 
 - [spin-delay](https://www.npmjs.com/package/spin-delay): Delay a spinner for a certain timeout
 
+## Node
+
+- [dirname-filename-esm](https://www.npmjs.com/package/dirname-filename-esm): `__dirname` and `__filename` for ES Modules on Node.js
+
 ## Env
 
 - [env-cmd](https://www.npmjs.com/package/env-cmd): Source a `.env` file before executing Node
