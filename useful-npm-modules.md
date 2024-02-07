@@ -17,7 +17,7 @@
 
 ## Node
 
-- [dirname-filename-esm](https://www.npmjs.com/package/dirname-filename-esm): `__dirname` and `__filename` for ES Modules on Node.js
+- [dirname-filename-esm](https://www.npmjs.com/package/dirname-filename-esm): `__dirname` and `__filename` for ES Modules on Node.js. **⚠️ Heads up:** This package is not necessary with Node 21.2.0 as it already provides `import.meta.dirname` and `import.meta.filename` (see https://nodejs.org/api/esm.html#importmetadirname)
 
 ## Env
 
