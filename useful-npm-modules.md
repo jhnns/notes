@@ -1,6 +1,7 @@
 ## JavaScript
 
 - [tiny-invariant](https://www.npmjs.com/package/tiny-invariant): Asserts that a specific value is truthy. Just that.
+- [json-stringify-deterministic](https://www.npmjs.com/package/json-stringify-deterministic): Deterministic version of JSON.stringify(), so you can get a consistent hash from stringified results.
 
 ## TypeScript
 
