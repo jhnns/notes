@@ -25,3 +25,7 @@
 
 - [env-cmd](https://www.npmjs.com/package/env-cmd): Source a `.env` file before executing Node
 - [env-var](https://www.npmjs.com/package/env-var): Parse env values in a type-safe way
+
+## Tests
+
+- [wait-for-expect](https://www.npmjs.com/package/wait-for-expect): Wait for expectation to be true, useful for integration and end to end testing
